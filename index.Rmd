@@ -44,7 +44,7 @@ The gulf between literature on conflict and harmony is exemplified in the Nation
 In both tables, the narrative status is dominated by narration with the total being 95 and 22 in Table 1 and Table 2 respectively. This facet is better explained by the visualisations that are to follow.  
 
 
-Visualisation
+### Visualisation
 
 ![Clustered Bar Chart](visualisation01.png)
 
